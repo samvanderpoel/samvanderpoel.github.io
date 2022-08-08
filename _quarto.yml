@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sam van der Poel"
+  navbar:
+    background: "#804630"
+    # left:
+      # - href: index.qmd
+      #   text: Home
+      # - about.qmd
+    right:
+      - icon: github
+        aria-label: github
+        href: https://github.com/samvanderpoel
+    pinned: true
+  # page-footer: "Sam van der Poel" 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    fontsize: 12pt

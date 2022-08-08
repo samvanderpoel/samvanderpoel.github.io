@@ -1,0 +1,44 @@
+---
+title: "Sam van der Poel"
+subtitle: samvanderpoel@gatech.edu
+page-layout: article
+about:
+    template: trestles
+    image: graphics/dream.jpg
+    image-shape: rounded
+    image-width: 7cm
+    links:
+    - icon: github
+      aria-label: github
+      text: Github
+      href: https://github.com/samvanderpoel
+navbar: true
+---
+
+<style type="text/css">
+h1.title {
+    text-align: center;
+}
+</style>
+
+### About Me
+
+<body>
+I am a doctoral student in the
+    <a target="_blank" href="https://aco.gatech.edu/" style="color: #505050">
+        Algorithms, Combinatorics, and Optimization
+    </a>
+    program at Georgia Tech's
+    <a target="_blank" href="https://math.gatech.edu/" style="color: #505050">
+        School of Mathematics,
+    </a>
+    supported by an
+    <a target="_blank" href="https://www.nsfgrfp.org/" style="color: #505050">
+        NSF Graduate Research Fellowship
+    </a>
+    and a
+    <a target="_blank" href="https://grad.gatech.edu/presidents-fellowships" style="color: #505050">
+        President's Fellowship
+    </a>
+    . <br><br> Originally from New York, I attended Stony Brook University where I completed a BS in mathematics and an MS in applied mathematics and statistics.
+</body>
